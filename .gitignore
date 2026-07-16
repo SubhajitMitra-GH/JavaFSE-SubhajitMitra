@@ -3,3 +3,6 @@
 
 # Ignore temporary/OS files
 .DS_Store
+
+# Ignore context files
+context/  
